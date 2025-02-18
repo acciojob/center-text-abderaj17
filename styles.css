@@ -6,7 +6,7 @@ body{
 	background-size: cover;
 	height: 100vh;
 	margin: 0;
-	
+	background-position: center;
 }
 p{
 	color: white;
